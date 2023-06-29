@@ -1,15 +1,16 @@
-team: Lions
+team: Tigers
 
 manager: Brenda
 
 coach: Ruth
 
 members:
--Thomas
--Karen
--Margaret
--George
--Tyler
--Kim
--fetch: this
--wonkyuk: jeans
+- Linda
+- William
+- David
+- George
+- Tyler
+- Kim
+
+fetch: this
+new : branch
