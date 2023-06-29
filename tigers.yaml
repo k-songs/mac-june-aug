@@ -1,15 +1,15 @@
-team: Lions
+team: Tigers
 
 manager: Brenda
 
 coach: Ruth
 
 members:
--Thomas
--Karen
--Margaret
+-Linda
+-William
+-David
 -George
 -Tyler
 -Kim
+
 -fetch: this
-- local: control main
